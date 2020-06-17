@@ -1,0 +1,19 @@
+
+ndnputchunks /lacl/data/file < /home/ubuntu/Documents/file.txt
+
+
+
+demande de calcul : /domain/compute/domain/data/1/2/domain/code
+			
+		    /domain/compute/domain/data/2/2/domain/code
+
+		    /upec/compute/lacl/data/0/2/lacl/code
+
+
+
+code : /lacl/code
+
+data : /lacl/data/0/9
+
+
+/domain/code/domain/data/map/1
